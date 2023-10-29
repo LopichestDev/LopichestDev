@@ -1,9 +1,8 @@
 ### Hi, I am LopichestDev 👋
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/596051236231577630)](https://discord.com/users/596051236231577630)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard.cnrad.dev/api/596051236231577630?borderRadius=15px)](https://discord.com/users/596051236231577630)
 
-  <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LopichestDev&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
