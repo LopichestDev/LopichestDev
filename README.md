@@ -1,4 +1,4 @@
-### Hi, I am LopichestDev 👋
+### Hi, I'm LopichestDev 👋
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/596051236231577630?borderRadius=15px)](https://discord.com/users/596051236231577630)
 
