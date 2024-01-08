@@ -2,6 +2,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/596051236231577630?borderRadius=15px)](https://discord.com/users/596051236231577630)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LopichestDev)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LopichestDev&show_icons=true&theme=dark"
